@@ -1,0 +1,27 @@
+ @import "tailwindcss";
+
+ body{
+background-image: url(https://puzzlemania-154aa.kxcdn.com/products/2024/puzzle-schmidt-1000-pieces-random-galaxy.webp);
+;
+ }
+
+
+ p{
+    font-size: 1.5rem;
+    color: #0c0303;
+    text-align: center;
+    margin-top: 20px;
+   
+
+ }
+
+ .caprasimo-regular,p {
+  font-family: "Caprasimo", serif;
+  font-weight: 400;
+  font-style: latin;
+  font-size: 1.5rem;
+}
+
+button {
+ 
+}
